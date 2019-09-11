@@ -1,0 +1,18 @@
+{
+  "name": "Young Visual",
+  "short_name": "YoungVisual",
+  "description": "Young Visual Official Website",
+  "start_url": "https://youngvisual.nl/",
+  "icons": [
+      {
+        "src": "public/img/logo.png",
+        "type": "image/png",
+        "sizes": "720x720"
+      }
+      ],
+  "display": "standalone",
+  "background_color": "#2DCCD3",
+  "theme_color": "#2DCCD3",
+  "categories": ["youngvisual"],
+  "lang": "en-US"
+}
