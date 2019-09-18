@@ -26,15 +26,15 @@
                 <div class="footer__grid__left">
                     <div class="footer__grid__left__marketing">
                         <h2 class="footer--h2">Online Marketing</h2>
-                        <a class="footer--a" href="#">SEA: Zoekmachine adverteren</a>
-                        <a class="footer--a" href="#">SEO: zoekmachine optimalisatie</a>
+                        <a class="footer--a" href="#">SEA: Zoekmachine adverteren</a><br>
+                        <a class="footer--a" href="#">SEO: zoekmachine optimalisatie</a><br>
                         <a class="footer--a" href="#">Google Shopping adverteren</a>
                     </div>
                     <div class="footer__grid__left__wordpress">
                         <h2 class="footer--h2">Wordpress Development</h2>
-                        <a class="footer--a" href="#">WordPress Development</a>
-                        <a class="footer--a" href="#">WordPress website laten maken</a>
-                        <a class="footer--a" href="#">Webshop laten maken</a>
+                        <a class="footer--a" href="#">WordPress Development</a><br>
+                        <a class="footer--a" href="#">WordPress website laten maken</a><br>
+                        <a class="footer--a" href="#">Webshop laten maken</a><br>
                         <a class="footer--a" href="#">Webdesign</a>
                     </div>
                 </div>

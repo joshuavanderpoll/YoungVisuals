@@ -71,11 +71,13 @@ header {
 	font-family: Avenir Heavy;
 	font-size: 75px;
 	margin-top: 2em;
+	transition: font-size ease 1s;
 }
 .header__title h2 {
 	font-family: Avenir Light;
 	font-size: 23px;
 	margin-top: .5em;
+	transition: font-size ease 1s;
 }
 main{
     height: 50vh;
@@ -121,14 +123,15 @@ main{
 }
 .footer--h2{
     padding-bottom: 30px;
-    font-weight: bolder;
+    font-family: Avenir Heavy, sans-serif;
     font-size: 23px;
 }
 .footer--a, .footer--p{
-    font-family: "Avenir Roman", sans-serif;
+    font-family: Avenir Roman, sans-serif;
     font-size: 20px;
     text-decoration: none;
     color: #fff;
+    line-height: 23px;
 }
 .footer--hr{
     width: 80%;
@@ -144,7 +147,22 @@ main{
 	.header__top ul {
 	    text-align: left;
 	}
+
+	.header__title h1 {
+		font-size: 45px;
+	}
+	.header__title h2 {
+		font-size: 25px;
+	}
 	.footer__grid{
 	    display: block;
+	}
+}
+@media only screen and (max-width: 1000px) {
+	.header__title h1 {
+		font-size: 65px;
+	}
+	.header__title h2 {
+		font-size: 30px;
 	}
 }
