@@ -28,6 +28,13 @@ class Home {
 		include "./private/views/footer.php";
 	}
 }
+class Help {
+	public function __construct() {
+		include "./private/views/header.php";
+		include "./private/pages/help.php";
+		include "./private/views/footer.php";
+	}
+}
 class NotFound {
 	public function __construct() {
 		include "./private/views/header.php";

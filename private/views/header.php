@@ -24,8 +24,8 @@ if($_SERVER['REQUEST_URI'] == "/") {
     <link rel='canonical' href='https://youngvisual.nl/'>
 	<link rel="stylesheet" href="public/css/reset.css">
 	<link rel="stylesheet" href="public/css/main.css">
-	<link rel="stylesheet" href="<?php echo $css; ?>">
 	<link rel="stylesheet" href="public/css/fonts.css">
+	<link rel="stylesheet" href="<?php echo $css; ?>">
 	<meta name="theme-color" content="#2DCCD3"/>
 	<link rel="shortcut icon" type="image/x-icon" href="./public/img/logo.ico"/>
 	<link rel="apple-touch-icon" href="./public/img/logo.svg">

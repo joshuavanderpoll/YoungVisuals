@@ -1,5 +1,4 @@
+<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
 <body>
-	<main>
-		<h1>Content hier</h1>
-	</main>
+	<h1>Font Test</h1>
 </body>
