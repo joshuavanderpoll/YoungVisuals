@@ -14,7 +14,7 @@
 			</div>
 			<div class="header__title">
 				<h1>Contact</h1>
-				<h2>We zijn gespecialiseerd in WordPress Development & Online Marketing</h2>
+				<h2>Wij zijn gespecialiseerd in WordPress Development & Online Marketing</h2>
 			</div>
             <img class="header__overlay--corner" src="/public/img/corner.png" alt="corner">
 		</div>

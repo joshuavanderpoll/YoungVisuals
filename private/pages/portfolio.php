@@ -13,8 +13,8 @@
 				<!-- <button>Offerte Aanvragen</button> -->
 			</div>
 			<div class="header__title">
-				<h1>Making brands visible.</h1>
-				<h2>We zijn gespecialiseerd in WordPress Development & Online Marketing</h2>
+				<h1>Portfolio</h1>
+				<h2>Wij zijn gespecialiseerd in WordPress Development & Online Marketing</h2>
 			</div>
 		</div>
 	</header>
@@ -27,8 +27,6 @@
 	    </div>
 
 		</main>
-
-
 
     <footer class="footer">
     <div class="layer">
