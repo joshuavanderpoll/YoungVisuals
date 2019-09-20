@@ -56,3 +56,37 @@ main {
 
     position: relative;
 }
+
+.alinea__2 {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.main__team__grid {
+    width: 1269px;
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    grid-template-rows: 400px 400px;
+    grid-gap: 123px;
+
+    margin: 0 auto;
+}
+
+.main__team__img {
+    width: 300px;
+    height: 300px;
+}
+
+.main__team_collega {
+    width: 100%;
+    height: 100%;
+}
+
+.main__team--h4 {
+    font-family: Avenir Heavy;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
+}
+.main__team--h5 {}
+.main__team--a {}

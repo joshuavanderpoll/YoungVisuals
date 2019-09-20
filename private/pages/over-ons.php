@@ -43,7 +43,18 @@
         <div class="main__container--3">
             <div class="wrapper">
                 <div class="alinea__2">
-                    
+                    <h3 class="alinea--h3">Ons Team</h3>
+                    <p class="alinea--p">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. UtLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                    </p>
+                </div>
+                <div class="main__team__grid">
+                    <div class="main__team_collega">
+                        <img class="main__team__img" src="/public/img/team_example.png" alt="">
+                        <h4 class="main__team--h4">Midas</h4><a href="" class="main__team--a"></a>
+                        <h5 class="main__team--h5">MEDIA VORMGEVER</h5>
+                    </div>
+
                 </div>
             </div>
         </div>
