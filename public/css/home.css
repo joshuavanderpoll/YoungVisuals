@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 header {
 	background-image: url(/public/img/background.jpg);
     background-repeat: no-repeat;
@@ -87,7 +85,6 @@ header {
 	bottom: 0;
 	height: auto;
 }
->>>>>>> 435ff983592cba35c356da737cd174d0317f276f
 main{
     height: 50vh;
 }
