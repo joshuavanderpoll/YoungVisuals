@@ -18,7 +18,18 @@
 			</div>
 		</div>
 	</header>
-	<main></main>
+	<main>
+
+		<div class="head"><h3>Portfolio</h3></div>
+	    <div class="head_website">
+	      <img src="../../public/img/tech.png" alt="">
+	      <h3>Websites</h3>
+	    </div>
+
+		</main>
+
+
+
     <footer class="footer">
     <div class="layer">
         <div class="footer__grid">
