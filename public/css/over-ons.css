@@ -1,0 +1,58 @@
+main {
+    min-height: 50vh;
+}
+
+.main__container--1 {
+    max-width: 100vw;
+    height: 500px;
+
+    position: relative;
+}
+
+.wrapper {
+    width: 1592px;
+    min-height: 50vh;
+
+    margin: 0 auto;
+}
+
+.alinea__1 {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.alinea--h3 {
+    font-family: Avenir;
+    font-size: 35px;
+}
+
+.alinea--p {
+    margin-top: 50px;
+    font-family: Avenir;
+    font-size: 20px;
+}
+
+.main__corner {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+
+    width: 400px;
+    height: 80px;
+}
+
+.main__container--2 {
+    max-width: 100vw;
+    height: 700px;
+
+    position: relative;
+
+    border: 2px solid #111111;
+}
+
+.main__container--3 {
+    max-width: 100vw;
+    height: 700px;
+
+    position: relative;
+}
