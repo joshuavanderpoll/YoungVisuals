@@ -17,6 +17,7 @@
 				<h1>Making brands visible.</h1>
 				<h2>We zijn gespecialiseerd in WordPress Development & Online Marketing</h2>
 			</div>
+            <img class="header__overlay--corner" src="/public/img/corner.png" alt="corner">
 		</div>
 	</header>
 	<main></main>

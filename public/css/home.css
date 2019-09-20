@@ -79,6 +79,12 @@ header {
 	margin-top: .5em;
 	transition: font-size ease 1s;
 }
+.header__overlay--corner{
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	height: auto;
+}
 main{
     height: 50vh;
 }
