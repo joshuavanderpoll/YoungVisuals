@@ -32,4 +32,8 @@ textarea {
 	margin-top: .5em;
 	border: solid 1px #DDDDDD;
 	width: calc(100% - 8em);
+	font-size: 1em;
+}
+footer {
+	margin-top: 2em;
 }
