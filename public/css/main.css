@@ -24,7 +24,7 @@ header {
     background-size: cover;
     background-position: center center;
 	color: #FFF;
-	height: calc(100vh - 1px);
+	height: calc(95vh - 1px);
 }
 .header__overlay {
 	background-color: rgba(29, 202, 211, .9);
@@ -102,7 +102,7 @@ header {
 .header__overlay--corner{
 	position: absolute;
 	right: 0;
-	bottom: 0;
+	bottom: 2em;
 	height: auto;
 }
 

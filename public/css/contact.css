@@ -31,5 +31,5 @@ textarea {
 	margin-left: 1em;
 	margin-top: .5em;
 	border: solid 1px #DDDDDD;
-	height: 100%;
+	width: calc(100% - 8em);
 }
