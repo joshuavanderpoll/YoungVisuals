@@ -25,7 +25,7 @@
             <div>
                 <div id="wrapper-9cd199b9cc5410cd3b1ad21cab2e54d3">
                 <div id="map-9cd199b9cc5410cd3b1ad21cab2e54d3"></div><script>(function () {
-                var setting = {"height":800,"width":700,"zoom":17,"queryString":"Mediacollege Amsterdam, Contactweg, Amsterdam, Netherlands","place_id":"ChIJLw1zSYjixUcR2-1A13XW_10","satellite":false,"centerCoord":[52.39100187061429,4.855794250000031],"cid":"0x5dffd675d740eddb","cityUrl":"/netherlands/amsterdam","id":"map-9cd199b9cc5410cd3b1ad21cab2e54d3","embed_id":"88485"};
+                var setting = {"height":450,"width":700,"zoom":17,"queryString":"Mediacollege Amsterdam, Contactweg, Amsterdam, Netherlands","place_id":"ChIJLw1zSYjixUcR2-1A13XW_10","satellite":false,"centerCoord":[52.39100187061429,4.855794250000031],"cid":"0x5dffd675d740eddb","cityUrl":"/netherlands/amsterdam","id":"map-9cd199b9cc5410cd3b1ad21cab2e54d3","embed_id":"88485"};
                 var d = document;
                 var s = d.createElement('script');
                 s.src = 'https://1map.com/js/script-for-user.js?embed_id=88485';
@@ -35,7 +35,7 @@
                 };
                 var to = d.getElementsByTagName('script')[0];
                 to.parentNode.insertBefore(s, to);
-              })();</script><a href="https://1map.com/map-embed?embed_id=88485">1map.com</a></div>
+              })();</script></div>
             </div>
             <div>
                 <form name="contact">
@@ -51,7 +51,7 @@
                     <input type="radio" name="development" checked=""><p>Ja</p>
                     <input type="radio" name="development"><p>Nee</p><br>
                     <p>Licht hier je wensen toe:</p><br>
-                    <textarea form="contact"></textarea>
+                    <textarea rows="3" form="contact"></textarea>
                 </form>
             </div>
         </div>
