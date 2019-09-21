@@ -2,6 +2,10 @@ main {
     min-height: 50vh;
 }
 
+a {
+    text-decoration: none;
+}
+
 .main__container--1 {
     max-width: 100vw;
     height: 500px;
@@ -22,13 +26,13 @@ main {
 }
 
 .alinea--h3 {
-    font-family: Avenir;
+    font-family: Avenir Medium;
     font-size: 35px;
 }
 
 .alinea--p {
     margin-top: 50px;
-    font-family: Avenir;
+    font-family: Avenir Book;
     font-size: 20px;
 }
 
@@ -52,7 +56,9 @@ main {
 
 .main__container--3 {
     max-width: 100vw;
-    height: 700px;
+    min-height: 700px;
+
+    padding-bottom: 70px;
 
     position: relative;
 }
@@ -70,6 +76,7 @@ main {
     grid-gap: 123px;
 
     margin: 0 auto;
+
 }
 
 .main__team__img {
@@ -87,6 +94,27 @@ main {
     font-size: 30px;
     text-align: center;
     margin-top: 30px;
+
+    text-decoration: none;
+    color: #000;
 }
-.main__team--h5 {}
-.main__team--a {}
+.main__team--h5 {
+    font-family: Avenir Book;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.main_team--img {
+    height: 20px;
+    width: 20px;
+    position: relative;
+    display: inline-block;
+    top: -10px;
+    left: 5px;
+}
+
+.main__team_collega--a {
+    text-decoration: none;
+    color: #000;
+}

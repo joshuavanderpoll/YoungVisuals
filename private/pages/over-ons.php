@@ -37,7 +37,8 @@
         </div>
 
         <div class="main__container--2">
-
+            <video src="">
+            </video>
         </div>
 
         <div class="main__container--3">
@@ -51,8 +52,38 @@
                 <div class="main__team__grid">
                     <div class="main__team_collega">
                         <img class="main__team__img" src="/public/img/team_example.png" alt="">
-                        <h4 class="main__team--h4">Midas</h4><a href="" class="main__team--a"></a>
+                        <a class="main_team__collega--a " href=""><h4 class="main__team--h4">Midas<img class="main_team--img" src="/public/img/linked_in_icon.png" alt=""></h4></a>
                         <h5 class="main__team--h5">MEDIA VORMGEVER</h5>
+                    </div>
+
+                    <div class="main__team_collega">
+                        <img class="main__team__img" src="/public/img/team_example.png" alt="">
+                        <a class="main_team__collega--a " href=""><h4 class="main__team--h4">Ferdi<img class="main_team--img" src="/public/img/linked_in_icon.png" alt=""></h4></a>
+                        <h5 class="main__team--h5">MEDIA VORMGEVER</h5>
+                    </div>
+
+                    <div class="main__team_collega">
+                        <img class="main__team__img" src="/public/img/team_example.png" alt="">
+                        <a class="main_team__collega--a " href=""><h4 class="main__team--h4">Jelle<img class="main_team--img" src="/public/img/linked_in_icon.png" alt=""></h4></a>
+                        <h5 class="main__team--h5">MEDIA DEVELOPER</h5>
+                    </div>
+
+                    <div class="main__team_collega">
+                        <img class="main__team__img" src="/public/img/team_example.png" alt="">
+                        <a class="main_team__collega--a " href=""><h4 class="main__team--h4">Joshua<img class="main_team--img" src="/public/img/linked_in_icon.png" alt=""></h4></a>
+                        <h5 class="main__team--h5">MEDIA DEVELOPER</h5>
+                    </div>
+
+                    <div class="main__team_collega">
+                        <img class="main__team__img" src="/public/img/team_example.png" alt="">
+                        <a class="main_team__collega--a " href=""><h4 class="main__team--h4">Jochem<img class="main_team--img" src="/public/img/linked_in_icon.png" alt=""></h4></a>
+                        <h5 class="main__team--h5">MEDIA DEVELOPER</h5>
+                    </div>
+
+                    <div class="main__team_collega">
+                        <img class="main__team__img" src="/public/img/team_example.png" alt="">
+                        <a class="main_team__collega--a " href=""><h4 class="main__team--h4">Marco<img class="main_team--img" src="/public/img/linked_in_icon.png" alt=""></h4></a>
+                        <h5 class="main__team--h5">MEDIA DEVELOPER</h5>
                     </div>
 
                 </div>
