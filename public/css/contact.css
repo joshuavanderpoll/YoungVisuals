@@ -1,0 +1,39 @@
+main {
+	background-color: #FFF;
+}
+.wrapper {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+h2 {
+	font-size: 25px;
+	font-family: Avenir Heavy;
+	margin: 4em 100px 2em 100px;
+}
+input[type="text"], input[type="email"] {
+	border: none;
+	border-bottom: solid 1px #DDDDDD;
+	width: calc(50% - 4em);
+	font-size: 1em;
+	padding: .7em 0;
+	margin: 1em;
+}
+p {
+	font-family: Avenir;
+	margin-top: 1em;
+	display: inline-block;
+	margin-left: 1em;
+}
+input[type="radio"] {
+	margin-left: 1.5em;
+}
+textarea {
+	margin-left: 1em;
+	margin-top: .5em;
+	border: solid 1px #DDDDDD;
+	width: calc(100% - 8em);
+	font-size: 1em;
+}
+footer {
+	margin-top: 2em;
+}

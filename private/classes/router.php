@@ -28,10 +28,31 @@ class Home {
 		include "./private/views/footer.php";
 	}
 }
-class Help {
+class Services {
 	public function __construct() {
 		include "./private/views/header.php";
-		include "./private/pages/help.php";
+		include "./private/pages/diensten.php";
+		include "./private/views/footer.php";
+	}
+}
+class About {
+	public function __construct() {
+		include "./private/views/header.php";
+		include "./private/pages/over-ons.php";
+		include "./private/views/footer.php";
+	}
+}
+class Portfolio {
+	public function __construct() {
+		include "./private/views/header.php";
+		include "./private/pages/portfolio.php";
+		include "./private/views/footer.php";
+	}
+}
+class Contact {
+	public function __construct() {
+		include "./private/views/header.php";
+		include "./private/pages/contact.php";
 		include "./private/views/footer.php";
 	}
 }
