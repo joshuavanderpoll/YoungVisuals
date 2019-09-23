@@ -1,0 +1,137 @@
+main {
+    min-height: 50vh;
+}
+
+a {
+    text-decoration: none;
+}
+
+.main__container--1 {
+    max-width: 100vw;
+    height: 500px;
+
+    position: relative;
+}
+
+.wrapper {
+    width: 82.916666666666666667vw;
+    min-height: 50vh;
+
+    margin: 0 auto;
+}
+
+.alinea__1 {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.alinea--h3 {
+    font-family: Avenir Medium;
+    font-size: 35px;
+}
+
+.alinea--p {
+    margin-top: 50px;
+    font-family: Avenir Book;
+    font-size: 20px;
+}
+
+.main__corner {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+
+    width: 400px;
+    height: 80px;
+}
+
+.main__container--2 {
+    width: 100vw;
+    max-width: 100vw;
+    height: 700px;
+
+    position: relative;
+
+    border: 2px solid #111111;
+}
+
+.main__container--3 {
+    max-width: 100vw;
+    min-height: 700px;
+
+    padding-bottom: 70px;
+
+    position: relative;
+}
+
+.alinea__2 {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.main__team__grid {
+    width: 1269px;
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    grid-template-rows: 400px 400px;
+    grid-gap: 123px;
+
+    margin: 0 auto;
+
+}
+
+.main__team__img {
+    width: 300px;
+    height: 300px;
+}
+
+.main__team_collega {
+    width: 100%;
+    height: 100%;
+}
+
+.main__team--h4 {
+    font-family: Avenir Heavy;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
+
+    text-decoration: none;
+    color: #000;
+}
+.main__team--h5 {
+    font-family: Avenir Book;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.main_team--img {
+    height: 20px;
+    width: 20px;
+    position: relative;
+    display: inline-block;
+    top: -10px;
+    left: 5px;
+}
+
+.main__team_collega--a {
+    text-decoration: none;
+    color: #000;
+}
+
+@media only screen and (max-width: 750px) {
+
+}
+@media only screen and (max-width: 1000px) {
+    .main__team__grid {
+        width: 723px;
+        display: grid;
+        grid-template-columns: 300px 300px;
+        grid-template-rows: 400px 400px 400px;
+        grid-gap: 123px;
+
+        margin: 0 auto;
+
+    }
+}

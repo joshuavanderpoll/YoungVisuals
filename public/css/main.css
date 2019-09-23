@@ -90,7 +90,7 @@ header {
 .header__title h1 {
 	font-family: Avenir Heavy;
 	font-size: 75px;
-	margin-top: 2em;
+	margin-top: 25vh;
 	transition: font-size ease 1s;
 }
 .header__title h2 {

@@ -13,12 +13,169 @@
 				<!-- <button>Offerte Aanvragen</button> -->
 			</div>
 			<div class="header__title">
-				<h1>Making brands visible.</h1>
+				<h1>Diensten die wij uitleveren</h1>
 				<h2>We zijn gespecialiseerd in WordPress Development & Online Marketing</h2>
 			</div>
+            <img class="header__overlay--corner" src="public/img/corner.png" alt="corner">
 		</div>
 	</header>
-	<main></main>
+	<main>
+	    <div class="project-uitleg">
+	        <h2 class="project-uitleg--title">Alles in één pakket</h2>
+	        <p class="project-uitleg--bericht">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+	            magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+	            commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+	            nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+	            anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+	            incididunt ut labore et dolore magna aliqua. Ut
+	        </p>
+	        <img class="project-uitleg--img" src="public/img/screen_sideways.png" alt="screen/sideways">
+
+	        <div class="project-uitleg__property">
+	            <div class="project-uitleg__property__container">
+	                <img class="project-uitleg--icon" src="public/img/tech.png" alt="">
+	                <h2 class="project-uitleg__property--title">Website</h2>
+	            </div>
+	            <p class="project-uitleg__property__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+	                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+	                ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+	                eu fugiat nulla pariatur.
+	            </p>
+	        </div>
+	        <div class="project-uitleg__property">
+	            <div class="project-uitleg__property__container">
+	                <img class="project-uitleg--icon" src="public/img/tools.png" alt="">
+	                <h2 class="project-uitleg__property--title">Huisstyle</h2>
+	            </div>
+	                <p class="project-uitleg__property__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+	                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+	                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+	                    eu fugiat nulla pariatur.
+	                </p>
+	        </div>
+
+	        <div class="project-uitleg__property">
+	            <div class="project-uitleg__property__container">
+	                <img class="project-uitleg--icon" src="public/img/shop.png" alt="">
+	                <h2 class="project-uitleg__property--title">Online Marketing</h2>
+	            </div>
+	                <p class="project-uitleg__property__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+	                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+	                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+	                    eu fugiat nulla pariatur.
+	                </p>
+	        </div>
+	        <a class="project-uitleg__offerte" href="#">
+	            <button class="project-uitleg__offerte--button">Offerte Aanvragen</button>
+	        </a>
+	    </div>
+	    <div class="keuze-pakket">
+	        <h2 class="keuze-pakket--title">Keuze Pakket</h2>
+	        <p class="keuze-pakket--paragraph">
+	            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+	            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
+	            ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+	            nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+	            anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+	            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+	            laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
+	            esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa
+	            qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+	            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+	            exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in.
+	        </p>
+	    </div>
+	    <div class="pakketten">
+	        <div class="pakketten__website">
+	            <div class="pakketten__container">
+	                <img class="pakketten--icon" src="public/img/tech.png" alt="">
+	                <h2 class="pakketten--title">Website</h2>
+	            </div>
+	            <img class="pakketten--website-img" src="public/img/screen_front.png" alt="screen_front">
+	            <p class="pakketten--text">
+	                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+	                et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+	            </p>
+	            <div class="checklists">
+	                <div class="pakketten__checklist">
+	                    <img class="pakketten__checklist--check" src="public/img/check.svg" alt="check">
+	                    <p class="pakketten__checklist--text">Éen domeinnaam</p>
+	                </div>
+	                <div class="pakketten__checklist">
+	                    <img class="pakketten__checklist--check" src="public/img/check.svg" alt="check">
+	                    <p class="pakketten__checklist--text">Website volledig verzorgd</p>
+	                </div>
+	                <div class="pakketten__checklist">
+	                    <img class="pakketten__checklist--check" src="public/img/check.svg" alt="check">
+	                    <p class="pakketten__checklist--text">Uitleg wordpress</p>
+	                </div>
+	            </div>
+	            <a class="pakketten__offerte" href="#">
+	                <button class="pakketten__offerte--button">Offerte Aanvragen</button>
+	            </a>
+	        </div>
+
+
+	        <div class="pakketten__huisstyle">
+	            <div class="pakketten__container">
+	                <img class="pakketten--icon" src="public/img/tools.png" alt="huisstyle">
+	                <h2 class="pakketten--title">Huisstyle</h2>
+	            </div>
+	            <img class="pakketten--huisstijl-img" src="public/img/website.png" alt="website">
+	            <p class="pakketten--text">
+	                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+	                et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+	            </p>
+	            <div class="checklists">
+	                <div class="pakketten__checklist">
+	                    <img class="pakketten__checklist--check" src="public/img/check.svg" alt="check">
+	                    <p class="pakketten__checklist--text">Éen domeinnaam</p>
+	                </div>
+	                <div class="pakketten__checklist">
+	                    <img class="pakketten__checklist--check" src="public/img/check.svg" alt="check">
+	                    <p class="pakketten__checklist--text">Website volledig verzorgd</p>
+	                </div>
+	                <div class="pakketten__checklist">
+	                    <img class="pakketten__checklist--check" src="public/img/check.svg" alt="check">
+	                    <p class="pakketten__checklist--text">Uitleg wordpress</p>
+	                </div>
+	            </div>
+	            <a class="pakketten__offerte" href="#">
+	                <button class="pakketten__offerte--button">Offerte Aanvragen</button>
+	            </a>
+	        </div>
+
+	        <div class="pakketten__marketing">
+	            <div class="pakketten__container">
+	                <img class="pakketten--icon" src="public/img/shop.png" alt="marketing">
+	                <h2 class="pakketten--title">Online Marketing</h2>
+	            </div>
+	            <img class="pakketten__img-container--img" src="public/img/shirt.png" alt="shirt">
+	            <p class="pakketten--text">
+	                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+	                et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+	            </p>
+	            <div class="checklists">
+	                <div class="pakketten__checklist">
+	                    <img class="pakketten__checklist--check" src="public/img/check.svg" alt="check">
+	                    <p class="pakketten__checklist--text">Éen domeinnaam</p>
+	                </div>
+	                <div class="pakketten__checklist">
+	                    <img class="pakketten__checklist--check" src="public/img/check.svg" alt="check">
+	                    <p class="pakketten__checklist--text">Website volledig verzorgd</p>
+	                </div>
+	                <div class="pakketten__checklist">
+	                    <img class="pakketten__checklist--check" src="public/img/check.svg" alt="check">
+	                    <p class="pakketten__checklist--text">Uitleg wordpress</p>
+	                </div>
+	            </div>
+	            <a class="pakketten__offerte" href="#">
+	                <button class="pakketten__offerte--button">Offerte Aanvragen</button>
+	            </a>
+	        </div>
+	    </div>
+	</main>
+
     <footer class="footer">
     <div class="layer">
         <div class="footer__grid">

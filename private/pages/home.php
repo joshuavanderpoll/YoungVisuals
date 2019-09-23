@@ -20,7 +20,70 @@
             <img class="header__overlay--corner" src="/public/img/corner.png" alt="corner">
 		</div>
 	</header>
-	<main></main>
+	<main>
+        <div class="tips">
+            <div class="tip">
+               <img src="" alt="tip img"> 
+               <h2>Website</h2>
+               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+            <div class="tip">
+               <img src="" alt="tip img"> 
+               <h2>Website</h2>
+               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+            <div class="tip">
+               <img src="" alt="tip img"> 
+               <h2>Website</h2>
+               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+        </div>
+        <div class="visie">
+            <h2>Onze visie</h2>
+            <h3>Bij Young Visual zetten we ons in voor de groei van jou onderneming.</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </div>
+        <div class="team">
+            <h2>Ons Team</h2>
+            <p>Dit zijn de mannen van Young Visual. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <div class="team">
+                <div class="team_member">
+                    <img src="" alt="person image">
+                    <h3>Midas</h3>
+                    <p>MEDIA VORMGEVER</p>
+                </div>
+                <div class="team_member">
+                    <img src="" alt="person image">
+                    <h3>Midas</h3>
+                    <p>MEDIA VORMGEVER</p>
+                </div>
+                <div class="team_member">
+                    <img src="" alt="person image">
+                    <h3>Midas</h3>
+                    <p>MEDIA VORMGEVER</p>
+                </div>
+                <div class="team_member">
+                    <img src="" alt="person image">
+                    <h3>Midas</h3>
+                    <p>MEDIA VORMGEVER</p>
+                </div>
+                <div class="team_member">
+                    <img src="" alt="person image">
+                    <h3>Midas</h3>
+                    <p>MEDIA VORMGEVER</p>
+                </div>
+                <div class="team_member">
+                    <img src="" alt="person image">
+                    <h3>Midas</h3>
+                    <p>MEDIA VORMGEVER</p>
+                </div>
+            </div>
+        </div>
+
+
+
+
+    </main>
 	    <footer class="footer">
         <div class="layer">
             <div class="footer__grid">

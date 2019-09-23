@@ -1,8 +1,8 @@
 <body>
-	<header>
-		<div class="header__overlay">
-			<div class="header__top">
-				<img src="public/img/logo_white.svg" alt="YoungVisual Logo">
+    <header>
+        <div class="header__overlay">
+            <div class="header__top">
+                <img src="public/img/logo_white.svg" alt="YoungVisual Logo">
                 <ul>
                     <li onclick="location.href = '/'">Home</li>
                     <li onclick="location.href = 'diensten'">Diensten</li>
@@ -10,26 +10,22 @@
                     <li onclick="location.href = 'portfolio'" class="active">Portfolio</li>
                     <li onclick="location.href = 'contact'">Contact</li>
                 </ul>
-				<!-- <button>Offerte Aanvragen</button> -->
-			</div>
-			<div class="header__title">
-				<h1>Making brands visible.</h1>
-				<h2>We zijn gespecialiseerd in WordPress Development & Online Marketing</h2>
-			</div>
-		</div>
-	</header>
-	<main>
-
-		<div class="head"><h3>Portfolio</h3></div>
-	    <div class="head_website">
-	      <img src="../../public/img/tech.png" alt="">
-	      <h3>Websites</h3>
-	    </div>
-
-		</main>
-
-
-
+                <!-- <button>Offerte Aanvragen</button> -->
+            </div>
+            <div class="header__title">
+                <h1>Portfolio</h1>
+                <h2>Wij zijn gespecialiseerd in WordPress Development & Online Marketing</h2>
+            </div>
+            <img class="header__overlay--corner" src="/public/img/corner.png" alt="corner">
+        </div>
+    </header>
+    <main>
+        <div class="head"><h3>Portfolio</h3></div>
+        <div class="head_website">
+          <img src="../../public/img/tech.png" alt="">
+          <h3>Websites</h3>
+        </div>
+        </main>
     <footer class="footer">
     <div class="layer">
         <div class="footer__grid">
@@ -56,7 +52,6 @@
                     </p>
                 </div>
                 <div class="footer__grid__middle__media-icons">
-
                 </div>
             </div>
             <div class="footer__grid__right">
@@ -76,9 +71,7 @@
                     </div>
             </div>
         </div>
-
         <hr class="footer--hr">
-
         <div class="footer__bottomtext">
             <div class="footer__bottomtext__top">
                 <a class="footer--a footer__bottomtext__top__inline" href="#">Algemene voorwaarden</a>

@@ -1,0 +1,212 @@
+.project-uitleg{
+    margin: 0 10.25em;
+}
+.project-uitleg--title{
+    font-family: "Avenir Heavy";
+    font-size: 45px;
+    margin-top: 2em;
+}
+.project-uitleg--bericht{
+    margin-top: 3em;
+}
+.project-uitleg--img{
+    height: auto;
+    position: absolute;
+    right: -8em;
+    width: 50%;
+    max-width: 50em;
+}
+.project-uitleg--icon, .pakketten--icon, .pakketten__checklist--check{
+    width: 50px;
+    height: 50px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.project-uitleg__property{
+    margin: 2em 0 0 4em;
+}
+.project-uitleg__property--title, .pakketten--title{
+    font-family: "Avenir Heavy";
+}
+.project-uitleg__property--title, .pakketten--title, .pakketten__checklist--text{
+    font-size: 25px;
+    display: inline-block;
+    margin-left: 3em;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.project-uitleg__property__container, .pakketten__container{
+    height: 100px;
+    position: relative;
+}
+.project-uitleg--bericht, .project-uitleg__property__text, .keuze-pakket--paragraph, .pakketten--text{
+    font-size: 24px;
+}
+.project-uitleg__property__text{
+    margin-right: 27%;
+    /* Deze groter maken voor responsiveness in media queries */
+}
+.project-uitleg__offerte, .pakketten__offerte{
+    margin: 2em 0 3em 0;
+}
+.project-uitleg__offerte--button, .pakketten__offerte--button{
+    font-family: "Avenir Heavy";
+    font-size: 25px;
+    color: #fff;
+    background-color: #1DCAD3;
+    border-radius: 100px;
+    margin: 2em 0 3em 0;
+    padding: 10px 1.5em 8px 1.5em;
+}
+.keuze-pakket{
+    margin: 0 10.25em;
+}
+.keuze-pakket--title{
+    font-family: "Avenir Heavy";
+    font-size: 45px;
+    margin-top: 2em;
+}
+.keuze-pakket--paragraph{
+    margin: 2em 0;
+}
+.pakketten{
+    margin: 0 10.25em;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 1.5em;
+
+}
+.pakketten__container{
+    margin-bottom: 1em;
+}
+.pakketten--website-img{
+    height: 15em;
+    width: 24em;
+    object-fit: cover;
+    margin: 0 auto;
+    display: block;
+}
+.pakketten__img-container--img{
+    height: 15em;
+    width: 25em;
+    object-fit: contain;
+    margin: 0 auto;
+    display: block;
+}
+.pakketten--huisstijl-img{
+    width: 16em;
+    height: 15em;
+    margin: 0 auto;
+    display: block;
+}
+.pakketten--text{
+    margin: 2em 0 3em;
+}
+.pakketten__checklist{
+    position: relative;
+    margin-bottom: 2em;
+}
+.pakketten__checklist--check{
+    width: 50px;
+    height: 50px;
+}
+.checklists{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+.pakketten__offerte{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 1500px) {
+    .project-uitleg, .keuze-pakket, .pakketten {
+        margin: 0 7em;
+    }
+
+    .project-uitleg__property__text {
+        margin-right: 30%;
+    }
+}
+@media only screen and (max-width: 1400px) {
+    .project-uitleg, .keuze-pakket, .pakketten{
+        margin: 0 4em;
+    }
+    .project-uitleg--img{
+        margin-top: 10em;
+        right: -6em;
+    }
+}
+@media only screen and (max-width: 1300px) {
+    .project-uitleg, .keuze-pakket{
+        margin: 0 7em;
+    }
+    .pakketten {
+        width: 50%;
+        margin: 0 auto;
+        grid-template-columns: 1fr;
+    }
+    .pakketten__huisstyle{
+            display: block;
+            margin: 0 auto;
+    }
+
+}
+@media only screen and (max-width: 1000px){
+    .project-uitleg--img{
+        margin-top: 20em;
+        right: -4em;
+    }
+}
+
+@media only screen and (max-width: 755px){
+    .project-uitleg, .keuze-pakket{
+        margin: 0 4em;
+    }
+    .project-uitleg--img{
+        position: relative;
+        right: auto;
+        width: 100%;
+        margin: 0;
+    }
+    .project-uitleg__property{
+        margin: 2em 0 0 0;
+    }
+    .project-uitleg__property__text {
+        margin: auto;
+    }
+    .pakketten{
+        width: 80%;
+    }
+}
+@media only screen and (max-width: 500px){
+    /* Made text smaller with +/- 30% for mobile version */
+    .project-uitleg--title, .keuze-pakket--title {
+        font-size: 30px;
+    }
+    .project-uitleg--bericht, .project-uitleg__property--title,
+    .project-uitleg__property__text, .keuze-pakket--paragraph,
+    .pakketten--title, .pakketten--text,
+    .pakketten__checklist--text, .project-uitleg__offerte--button,
+    .pakketten__offerte--button{
+        font-size: 15px;
+    }
+    /* Added some more margin because of the smaller texts */
+    .project-uitleg__property--title{
+        margin-left: 4em;
+    }
+    .pakketten{
+        width: 90%;
+    }
+    .project-uitleg__property--title, .pakketten--title,
+    .pakketten__checklist--text{
+        margin-left: 4em;
+    }
+}
