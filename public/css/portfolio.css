@@ -5,9 +5,9 @@ body {
 
 .head h3 {
   margin-top: 4em;
-  margin-left: 4em;
+  margin-left: 3.5em;
   font-family: 'Avenir Book';
-  font-size: 2em;
+  font-size: 2.5em;
 }
 
 .head_website {
@@ -17,12 +17,38 @@ body {
 }
 
 .head_website h3{
-  font-size: 1.5em;
+  font-size: 2em;
   font-family: 'Avenir Book';
+  margin-left: 10px;
+  margin-top: 15px;
 }
 
 .head_website img {
-  width: 40px;
-  height: 40px;
-  display: block;
+  width: 60px;
+  height: 60px;
+  align-content: center;
+}
+
+.WP_Grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1em;
+  text-align: center;
+}
+
+.WP_Grid_Content1 img,
+.WP_Grid_Content2 img,
+.WP_Grid_Content3 img {
+  transition: 0.2s;
+}
+
+.WP_Grid_Content1 img:hover,
+.WP_Grid_Content2 img:hover,
+.WP_Grid_Content3 img:hover {
+  transition: 0.2s;
+  transform: scale(1.2);
+}
+
+.gap {
+  height: 100px;
 }

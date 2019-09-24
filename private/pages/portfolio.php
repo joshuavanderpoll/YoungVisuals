@@ -25,6 +25,33 @@
 	      <img src="../../public/img/tech.png" alt="">
 	      <h3>Websites</h3>
 	    </div>
+			<div class="WP_Grid">
+				<div class="WP_Grid_Content1"><img src="../../public/img/portfolio/WP1.png" alt=""></div>
+				<div class="WP_Grid_Content2"><img src="../../public/img/portfolio/WP2.png" alt=""></div>
+				<div class="WP_Grid_Content3"><img src="../../public/img/portfolio/WP3.png" alt=""></div>
+			</div>
+
+			<div class="head_website">
+	      <img src="../../public/img/tools.png" alt="">
+	      <h3>Huisstijl</h3>
+	    </div>
+			<div class="WP_Grid">
+				<div class="WP_Grid_Content1"><img src="../../public/img/portfolio/website.png" alt=""></div>
+				<div class="WP_Grid_Content2"><img src="../../public/img/portfolio/website.png" alt=""></div>
+				<div class="WP_Grid_Content3"><img src="../../public/img/portfolio/website.png" alt=""></div>
+			</div>
+
+			<div class="head_website">
+	      <img src="../../public/img/shop.png" alt="">
+	      <h3>Online Marketing</h3>
+	    </div>
+			<div class="WP_Grid">
+				<div class="WP_Grid_Content1"><img src="../../public/img/portfolio/shirt.png" alt=""></div>
+				<div class="WP_Grid_Content2"><img src="../../public/img/portfolio/shirt.png" alt=""></div>
+				<div class="WP_Grid_Content3"><img src="../../public/img/portfolio/shirt.png" alt=""></div>
+			</div>
+
+			<div class="gap"></div>
 
 		</main>
 
